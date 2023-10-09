@@ -1,9 +1,7 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
+// 스크립트 영역
 </script>
 
 <template>
-  <main>
-    <TheWelcome />
-  </main>
+  <main>테스트</main>
 </template>
